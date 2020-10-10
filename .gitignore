@@ -1,2 +1,8 @@
+/.nova
+.DS_Store
 node_modules
-node_modules
+/_site
+css
+/assets.json
+/.env
+/.cache
