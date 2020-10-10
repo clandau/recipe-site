@@ -1,24 +1,4 @@
-# turkey quinoa meatloaf
-
 # Turkey and Quinoa Meatloaf
-
-![.svg](image/.svg)
-
-![-1.svg](image/-1.svg)
-
-%!(EXTRA markdown.ResourceType=, string=, string=)
-
-%!(EXTRA markdown.ResourceType=, string=, string=)
-
-%!(EXTRA markdown.ResourceType=, string=, string=)
-
-* Prep
-
-30 m
-* Cook
-
-50 m
-* Ready In
 
 1 h 20 m
 
