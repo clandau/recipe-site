@@ -1,31 +1,16 @@
 # no boil baked penne with meatballs
 
-![641cfca1ce4edd09278d0855a8f36e63.jpg](image/641cfca1ce4edd09278d0855a8f36e63.jpg)
+![641cfca1ce4edd09278d0855a8f36e63.jpg](../image/641cfca1ce4edd09278d0855a8f36e63.jpg)
 
-## no-boil baked penne with meatballs
+* Prep Time: 10 mins
+* Cook Time: 45 mins
+* Yield: 6 servings
 
----
-
-[★](https://pinchofyum.com/garlic-butter-baked-penne#respond)[★](https://pinchofyum.com/garlic-butter-baked-penne#respond)[★](https://pinchofyum.com/garlic-butter-baked-penne#respond)[★](https://pinchofyum.com/garlic-butter-baked-penne#respond)[★](https://pinchofyum.com/garlic-butter-baked-penne#respond)[4.3](https://pinchofyum.com/garlic-butter-baked-penne#respond)[ from ](https://pinchofyum.com/garlic-butter-baked-penne#respond)[12](https://pinchofyum.com/garlic-butter-baked-penne#respond)[ reviews](https://pinchofyum.com/garlic-butter-baked-penne#respond)
-
-* Prep Time: 10 mins![.svg](image/.svg)
-
-*
-* Cook Time: 45 mins![-1.svg](image/-1.svg)
-
-* Yield: 6 servings![-2.svg](image/-2.svg)
-
-[![-3.svg](image/-3.svg)
-
-](https://pinchofyum.com/garlic-butter-baked-penne/print/48311/)[PRINT RECIPE](https://pinchofyum.com/garlic-butter-baked-penne/print/48311/)
-
-PIN RECIPE%!(EXTRA markdown.ResourceType=, string=, string=)
+[PRINT RECIPE](https://pinchofyum.com/garlic-butter-baked-penne/print/48311/)
 
 ### DESCRIPTION
 
 Baked Penne with Meatballs! No-boil, fail-proof, garlic-buttery, easy dreamy weeknight dinner. SO GOOD! 
-
----
 
 ### INGREDIENTS
 
@@ -44,10 +29,7 @@ Baked Penne:
 
 At the end:
 
-* a few handfuls of
-* grated
-
----
+* a few handfuls of grated parmesean
 
 ### INSTRUCTIONS
 
