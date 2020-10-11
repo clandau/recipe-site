@@ -24,7 +24,7 @@ In this recipe, roast pork tenderloin is glazed with honey, lime, soy and ancho 
 * [print](http://www.eatingwell.com/print/152759)
 * [share](http://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.eatingwell.com%2Frecipes%2Fancho_honey_pork.html&title=Ancho-Honey%20Pork%20Tenderloin%20with%20Cheese%20Grits&description=In%20this%20recipe%2C%20roast%20pork%20tenderloin%20is%20glazed%20with%20honey%2C%20lime%2C%20soy%20and%20ancho%20chile%20powder%20and%20served%20on%20top%20of%20cheese%20grits.%20Ancho%20chile%20powder%2C%20ma)
 
-![1dc0ef8a0f0979c274713088b5b40a43.jpg](image/1dc0ef8a0f0979c274713088b5b40a43.jpg)
+![1dc0ef8a0f0979c274713088b5b40a43.jpg](../image/1dc0ef8a0f0979c274713088b5b40a43.jpg)
 
 **Makes:**4 servings, 3 ounces pork & 1/2 cup grits each
 

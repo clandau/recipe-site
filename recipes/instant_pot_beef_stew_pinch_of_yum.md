@@ -1,6 +1,6 @@
 # instant pot beef stew pinch of yum
 
-![749f96ba88052da5b33000dd7fa32e3b.jpg](image/749f96ba88052da5b33000dd7fa32e3b.jpg)
+![749f96ba88052da5b33000dd7fa32e3b.jpg](../image/749f96ba88052da5b33000dd7fa32e3b.jpg)
 
 ## life changing instant pot beef stew
 

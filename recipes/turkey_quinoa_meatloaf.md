@@ -29,4 +29,4 @@ Recipe By:Andrew Benoit
 4. Stir the turkey, cooked quinoa, onions, tomato paste, hot sauce, 2 tablespoons Worcestershire, egg, salt, and pepper in a large bowl until well combined. The mixture will be very moist. Shape into a loaf on a foil lined baking sheet. Combine the brown sugar, 2 teaspoons Worcestershire, and 1 teaspoon water in a small bowl. Rub the paste over the top of the meatloaf.
 5. Bake in the preheated oven until no longer pink in the center, about 50 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Let the meatloaf cool for 10 minutes before slicing and serving.
 
-![7d513174ba16c223bf0922333869c0a0.jpg](image/7d513174ba16c223bf0922333869c0a0.jpg)
+![7d513174ba16c223bf0922333869c0a0.jpg](../image/7d513174ba16c223bf0922333869c0a0.jpg)

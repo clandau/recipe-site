@@ -3,7 +3,7 @@
 BALSAMIC GLAZED CAPRESE CHICKEN
 
 [PRINT](https://cafedelites.com/easyrecipe-print/25074-0/)
-![7f66d3ece819211fe1321169f70a4e37.jpg](image/7f66d3ece819211fe1321169f70a4e37.jpg)
+![7f66d3ece819211fe1321169f70a4e37.jpg](../image/7f66d3ece819211fe1321169f70a4e37.jpg)
 
 Caprese Chicken cooked right in a sweet, garlic balsamic glaze with juicy cherry tomatoes, fresh basil and topped with melted mozzarella cheese!
 
@@ -33,7 +33,7 @@ Balsamic Glaze: (Optional To Serve)
 INSTRUCTIONS
 
 Report this ad
-[![.png](image/.png)
+[![.png](../image/.png)
 
 ](http://www.mediavine.com)
 

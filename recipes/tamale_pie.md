@@ -6,7 +6,7 @@
 **total time:** 1 hour 30 minutes
 
 
-![18c57e7e4777a872fd0e4b920b608884.jpg](../image/18c57e7e4777a872fd0e4b920b608884.jpg)
+![18c57e7e4777a872fd0e4b920b608884.jpg](../../image/18c57e7e4777a872fd0e4b920b608884.jpg)
 
 ## INGREDIENTS
 

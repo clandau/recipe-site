@@ -1,6 +1,6 @@
 # sunday chili
 
-![2f6b3bd03693ad214e8d2c648a2b84b5.jpg](image/2f6b3bd03693ad214e8d2c648a2b84b5.jpg)
+![2f6b3bd03693ad214e8d2c648a2b84b5.jpg](../image/2f6b3bd03693ad214e8d2c648a2b84b5.jpg)
 
 ## **[https://pinchofyum.com/sunday-chili](https://pinchofyum.com/sunday-chili)**
 

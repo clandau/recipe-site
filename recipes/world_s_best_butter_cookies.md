@@ -4,11 +4,11 @@
 
 By P4 on January 10, 2003
 
-![4b143dc6129b8d6c3a1867c6868800a3.jpg](image/4b143dc6129b8d6c3a1867c6868800a3.jpg)
+![4b143dc6129b8d6c3a1867c6868800a3.jpg](../image/4b143dc6129b8d6c3a1867c6868800a3.jpg)
 
 Photo by Fiddler
 
-![9adee3f53ae61aca8fa3fc1ad15e120b.png](image/9adee3f53ae61aca8fa3fc1ad15e120b.png)
+![9adee3f53ae61aca8fa3fc1ad15e120b.png](../image/9adee3f53ae61aca8fa3fc1ad15e120b.png)
 
 156 Reviews
 * %!(EXTRA markdown.ResourceType=, string=, string=)
