@@ -1,20 +1,21 @@
-# butternut squash pasta with bacon and sage brown butter
+---
 
-![77af000c6890b36bc91f20e325d039ff.jpg](../../image/77af000c6890b36bc91f20e325d039ff.jpg)
+title: "butternut squash pasta with bacon and sage brown butter"
+---
+![77af000c6890b36bc91f20e325d039ff.jpg](../image/77af000c6890b36bc91f20e325d039ff.jpg)
 
-## More Recipes
-
-# Butternut Squash Pasta with Bacon and Sage Brown Butter by Alana Chernila
 
 ### Yields
 
  Serves 4, with leftovers
 
-Time 
+### Time 
 
  35 minutes cooking
 
 The browned butter and roasted vegetables make this special, but roasting everything in the oven at once makes it easy to prepare.
+
+### Ingredients
 
 1 small butternut squash, (1 to 1 1/2 pounds) seeded, peeled, and cut into 1-inch cubes
 
@@ -35,6 +36,8 @@ The browned butter and roasted vegetables make this special, but roasting everyt
 1/2 cup finely grated Parmesan cheese
 
 Freshly ground pepper
+
+### Directions
 
 1. Preheat the oven to 425°F. In a large bowl, toss the squash and onion with the olive oil and salt. Spread on a parchment-lined baking sheet and roast in the upper half of the oven until the squash is tender and the onions are golden, 30 to 35 minutes.
 

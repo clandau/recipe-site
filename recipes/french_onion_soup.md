@@ -3,7 +3,7 @@
 smitten kitchen
 sooooo good. make the bread super toasty. the onions take longer than that. 
 
-**Onion Soup [Soupe à l’Oignon]**
+## **Onion Soup [Soupe à l’Oignon]**
 
 Adapted from [Mastering the Art of French Cooking](http://www.amazon.com/gp/product/0375413405/ref=as_li_ss_tl?ie=UTF8&tag=smitten-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0375413405)
 
