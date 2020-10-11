@@ -5,7 +5,7 @@ layout: layouts/default.njk
 <h1>Recipe index</h1>
   <ul>
     {% for recipe in collections.recipes -%}
-    <li><a href="{{ recipe.url }}">{{ recipe.data.title || recipe.url }}</a></li>
+    <li><a href="{{ recipe.url }}">{{ recipe.data.title if recipe.data.title else recipe.url }}</a></li>
     {% endfor -%}
   </ul>
 {{ content | safe }}

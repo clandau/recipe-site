@@ -5,7 +5,7 @@
 Sneak Peek Recipe from Juli Bauer's Paleo Cookbook: Buffalo Chicken Casserole
 
 [Print](http://paleomg.com/easyrecipe-print/12322-0/)
-![c4fcd62530b0a7c40cd441a89f0dccbd.jpg](image/c4fcd62530b0a7c40cd441a89f0dccbd.jpg)
+![c4fcd62530b0a7c40cd441a89f0dccbd.jpg](../image/c4fcd62530b0a7c40cd441a89f0dccbd.jpg)
 
 Prep time
 15 mins
