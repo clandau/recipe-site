@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/index.css"/>
+  <title>Recipe index</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="/">Landau Recipe Index</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+      </li>
+      
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+  <div class="container">
+    
+<h1></h1>
+<div>
+</div>
+
+<article>
+  <h1>sauteed bok choy</h1>
+<p>ingredients:</p>
+<p>bok choy</p>
+<p>1T vegetable oil</p>
+<p>garlic</p>
+<p>1T soy sauce</p>
+<p>1T water</p>
+<p>salt</p>
+<p>1/2T sesame oil</p>
+<p>trim bok choy and cut up</p>
+<p>heat up veg oil in pan</p>
+<p>sautée garlic for 30sec</p>
+<p>add bok choy &amp; stir to coat with oil</p>
+<p>add water and soy sauce and put lid on pan</p>
+<p>allow to steam for about 1.5 minutes</p>
+<p>take off lid and stir</p>
+<p>turn off heat and add sesame oil</p>
+
+</article>
+  </div>
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/index.css"/>
+  <title>Recipe index</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="/">Landau Recipe Index</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+      </li>
+      
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+  <div class="container">
+    
+<h1></h1>
+<div>
+</div>
+
+<article>
+  <h1>homemade Bailey's Irish Cream</h1>
+<p>Out of one bottle (750 ml bottle) of Jameson Irish Whiskey (or any Irish Whiskey) made 1 quart, 1 pint, and 2 1/2 pints; and spared 2 shots for the person making it.</p>
+<p>Ingredients:</p>
+<p>1⅔ cups good Irish whiskey (we use Jameson Irish Whiskey)</p>
+<p>1 cup heavy cream</p>
+<p>1 (14-ounce) can fat free sweetened condensed milk (you can use regular)</p>
+<p>2 tablespoons Hershey’s chocolate syrup (melting baking chocolate works as well)</p>
+<p>2 tsp pure vanilla extract2 tbsp cold coffee</p>
+<p>Instructions:</p>
+<p>-Place all of the ingredients in an immersion blender or normal blender and mix on high speed for 20 seconds.</p>
+<p>-Transfer the mixture to an airtight container.</p>
+<p>-You store it in the fridge for up to two months, and just be sure to shake well before using.</p>
+
+</article>
+  </div>
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>
