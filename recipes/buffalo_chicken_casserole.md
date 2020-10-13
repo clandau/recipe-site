@@ -1,4 +1,8 @@
-# buffalo chicken casserole
+---
+title: buffalo chicken casserole
+direct link: http://paleomg.com/sneak-peek-recipe-from-juli-bauers-paleo-cookbook-buffalo-chicken-casserole/
+---
+
 
 [http://paleomg.com/sneak-peek-recipe-from-juli-bauers-paleo-cookbook-buffalo-chicken-casserole/](http://paleomg.com/sneak-peek-recipe-from-juli-bauers-paleo-cookbook-buffalo-chicken-casserole/)
 
@@ -18,7 +22,7 @@ Total time
 
 Serves: 4
 
-Ingredients
+## Ingredients
 * 1 medium spaghetti squash (about 21⁄2 pounds)
 * 4 tablespoons butter, ghee, or coconut oil, divided
 * 2 cloves garlic, minced
@@ -35,7 +39,7 @@ Ingredients
 * 3 large eggs, whisked chopped scallions, for garnish
 * sliced avocado, for garnish
 
-Instructions
+## Instructions
 1. Preheat the oven to 400°F.
 2. Cut the spaghetti squash in half lengthwise. Place the squash cut side down on a baking sheet and bake for 30 to 35 minutes or until the skin gives when you press your finger to it. Remove the squash from the oven and reduce the oven temperature to 350°F.
 3. Grease a Dutch oven or an 8-inch square glass baking dish with 2 tablespoons of the butter.
