@@ -1,6 +1,7 @@
-# Butternut squash salad
-
-Ingredients
+---
+title: Butternut squash salad
+---
+## Ingredients
 
 1 (1 1/2-pound) butternut squash, peeled and 3/4-inch) diced
 
@@ -28,7 +29,7 @@ Kosher salt and freshly ground black pepper
 
 Read more at: http://www.foodnetwork.com/recipes/ina-garten/roasted-butternut-squash-salad-with-warm-cider-vinaigrette-recipe.html?oc=linkback
 
-Directions
+## Directions
 
 Preheat the oven to 400 degrees F.
 
