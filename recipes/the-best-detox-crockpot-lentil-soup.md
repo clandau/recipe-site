@@ -1,7 +1,7 @@
 ---
 title: the best detox crockpot lentil soup
 thumbnail: /recipes/image/crockpot-lentil-soup-3.jpg
-direct link: https://pinchofyum.com/the-best-detox-crockpot-lentil-soup
+directLink: https://pinchofyum.com/the-best-detox-crockpot-lentil-soup
 rating: 5
 ---
 Detox Crockpot Lentil Soup – a clean and simple soup made with onions, garlic, carrots, olive oil, squash, and LENTILS! Super healthy and easy to make.
