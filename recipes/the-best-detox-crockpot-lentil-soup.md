@@ -1,6 +1,6 @@
 ---
 title: the best detox crockpot lentil soup
-thumbnail: /recipes/image/crockpot-lentil-soup-3.jpg
+thumbnail: "/recipes/image/crockpot-lentil-soup-3.jpg"
 directLink: https://pinchofyum.com/the-best-detox-crockpot-lentil-soup
 rating: 5
 ---
